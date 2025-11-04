@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Felipe Oliveira Rocha
 
 💻 Desenvolvedor Backend focado em criar soluções escaláveis, seguras e bem estruturadas.  
+🎓 Bacharelando em Ciência da Computação pela **Universidade Federal do Cariri (2021 - 2025)**, com média de conclusão **8.69/10**.  
 🚀 Experiência com Node.js, NestJS, PostgreSQL, Redis e AWS.  
 📚 Sempre aprendendo mais sobre arquitetura cloud e boas práticas de DevOps.
 
